@@ -4,3 +4,4 @@
 4. Go to http://localhost:3000/ on your browser and click on generate Csv button
 5. Check your generatedFolder
 6. The file is generated in that folder with the name generatedFile.csv
+7. Node - Make sure that node is installed on your device
